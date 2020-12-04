@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1592f4d5-7c7e-4954-96b4-0c65dbb70cf1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/nginx/config/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/config/nginx.conf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/workspace/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7_2">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../../../General/PHP/Manager/Composer/CVendor" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1RzvhBunkAunyFezvDPZADiZEQs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/docker-compose.yml&#10;D:/Develop/Projects/ALL/PHP/docker/nginx/sites/nginx.conf&#10;D:/Develop/Projects/ALL/PHP/docker/.env&#10;D:/Develop/Projects/ALL/PHP/docker/postgres/docker-entrypoint-initdb.d/createdb.sh&#10;D:/Develop/Projects/ALL/PHP/docker/mariadb/docker-entrypoint-initdb.d/createdb.sql&#10;D:/Develop/Projects/ALL/PHP/docker/nginx/config/sites-available/localhost.conf" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nginx/config" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Develop\Projects\ALL\docker\nginx\config" />
+      <recent name="D:\Develop\Projects\ALL\docker\nginx\config\@" />
+      <recent name="D:\Develop\Projects\ALL\docker\nginx\config\@2" />
+      <recent name="D:\Develop\Projects\ALL\docker\php-fpm\config\php\conf.d\@" />
+      <recent name="D:\Develop\Projects\ALL\docker\php-fpm\config\php\conf.d" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Develop\Projects\ALL\docker\nginx\config" />
+      <recent name="D:\Develop\Projects\ALL\docker\nginx\config\vhosts" />
+      <recent name="D:\Develop\Projects\ALL\docker\nginx" />
+      <recent name="D:\Develop\Projects\ALL\docker\php-fpm\config\php\conf.d" />
+      <recent name="D:\Develop\Projects\ALL\docker\nextcloud" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1592f4d5-7c7e-4954-96b4-0c65dbb70cf1" name="Default Changelist" comment="" />
+      <created>1550814552140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550814552140</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="sadfsaf" />
+    <option name="LAST_COMMIT_MESSAGE" value="sadfsaf" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="387" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604551432454">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="387" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1604551432454" />
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1604550591681">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1604550591681" />
+    <state x="92" y="92" width="1176" height="544" key="DiffContextDialog" timestamp="1604557001640">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="92" y="92" width="1176" height="544" key="DiffContextDialog/0.0.1360.728@0.0.1360.728" timestamp="1604557001640" />
+    <state x="272" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604550595128">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="96" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1604550595128" />
+    <state x="304" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604550599150">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="304" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1360.728@0.0.1360.728" timestamp="1604550599150" />
+    <state x="282" y="103" width="611" height="568" key="find.popup" timestamp="1604554525346">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="282" y="103" width="611" height="568" key="find.popup/0.0.1360.728@0.0.1360.728" timestamp="1604554525346" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>ad</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Unnamed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18543799" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
